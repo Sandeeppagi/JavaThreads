@@ -2,7 +2,7 @@
 
 Java Threads Intro
 
-1. StartThread.java  - Declaring a THread
+1. StartThread.java  - Declaring a Thread
 2. SyncThread.java  - Using volatile
 3. SyncMethod.java - Using synchronized methods
 4. ObjectLock.java - Using Object Lock
